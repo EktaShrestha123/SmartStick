@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "396144111609",
+    "firebase_url": "https://smartstick-4268f.firebaseio.com",
+    "project_id": "smartstick-4268f",
+    "storage_bucket": "smartstick-4268f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396144111609:android:05bb4916f8ce75c8f39728",
+        "android_client_info": {
+          "package_name": "com.project.sanveg.smartstick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396144111609-a8mtf8mstnujoam52fbkcfbduv7rgfdd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.sanveg.smartstick",
+            "certificate_hash": "741aad0852bdd1a25449982f8a40f67b54da746e"
+          }
+        },
+        {
+          "client_id": "396144111609-m2gitj49v3iq6cq02j587spalqer4p0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHQiqsRL3ejUUsNM9RAZDiA6dkUU2JZ-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396144111609-m2gitj49v3iq6cq02j587spalqer4p0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
